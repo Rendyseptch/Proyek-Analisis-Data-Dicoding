@@ -1,5 +1,8 @@
 ## Rendy Septian Bike Dashboard ✨
 
+ #Link Deploy
+https://rw8fgmquqvxkkzvw4boyfb.streamlit.app/
+
 # Setup environment
 'conda create --name main-ds python=3.9
 conda activate main-ds
